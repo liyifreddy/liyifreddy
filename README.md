@@ -1,6 +1,6 @@
 ## Yi Li
 
-Robot manipulation representations and how to evaluate them.
+Robot manipulation representations and how to evaluate them.<br>
 MSc Computer Science, TU Darmstadt · Darmstadt, Germany
 
 | | |
